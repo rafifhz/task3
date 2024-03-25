@@ -102,7 +102,7 @@ ul .list1{
 
 /* The hero section */
 .hero {
-  height: calc(100vh - 100px);
+  height: calc(100vh);
   background-color: #F5D1D1;
   display: flex;
   justify-content: center;

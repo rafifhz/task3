@@ -571,6 +571,7 @@ justify-content: center;
   .nav ul li{
  
  font-size: 14px;
+      padding-top:20px;
 }}
 @media (min-width: 200px) and (max-width: 576px) {
   .logo{

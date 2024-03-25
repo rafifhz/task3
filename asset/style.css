@@ -633,7 +633,8 @@ justify-content: center;
             }}*/
             @media (max-width: 768px) {
             .contentabout {
-  
+    padding-left:50px;
+                width:100%;
               background-color: #F5D1D1;
               display: block;
             
